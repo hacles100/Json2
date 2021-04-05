@@ -1,0 +1,57 @@
+[{
+    "equipa": "Sporting Clube Portugal",
+    "estadio": {
+
+        "nome": "José Alvalade",
+        "publico_record": 54200,
+        "capacidade": null
+    },
+
+    "jogadores": [{
+        "nome": "Palinha",
+        "idade": 23,
+        "titular": true,
+        "equipas": ["Sporting", "Rio Ave", "SC Braga", "Sporting"]
+    },
+
+    {
+
+      "nome": "Nuno Mendes",
+      "idade": 18,
+      "titular": true,
+      "equpas": ["Sporting B", "Sporting"]
+
+    }]
+
+    },
+
+    {
+        "equipa": "Sporting Clube Portugal",
+        "estadio": {
+    
+            "nome": "José Alvalade",
+            "publico_record": 54200,
+            "capacidade": null
+        },
+    
+        "jogadores": [{
+            "nome": "Palinha",
+            "idade": 23,
+            "titular": true,
+            "equipas": ["Sporting", "Rio Ave", "SC Braga", "Sporting"]
+        },
+    
+        {
+    
+          "nome": "Nuno Mendes",
+          "idade": 18,
+          "titular": true,
+          "equpas": ["Sporting B", "Sporting"]
+
+        }]
+
+    }]
+
+
+
+
